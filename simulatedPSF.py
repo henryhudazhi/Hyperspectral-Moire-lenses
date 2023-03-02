@@ -1,5 +1,6 @@
-#  The process of obtaining the PSFs
-
+## The process of obtaining the PSFs
+## LightPipes
+## Written by Haiquan Hu
 from LightPipes import *
 import matplotlib.pyplot as plt
 import math
