@@ -1,4 +1,4 @@
-# Snapshot-hyperspectral-imaging-based-on-tunable-diffractive-Moir--lenses
+# Snapshot-hyperspectral-imaging-based-on-tunable-diffractive-Moire-lenses
 
 The process of simulation in Snapshot hyperspectral imaging based on tunable diffractive Moire-lenses.
 ##
