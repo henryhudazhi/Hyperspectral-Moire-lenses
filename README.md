@@ -14,3 +14,4 @@ h1.mat, h2.mat: the height maps of 2 DOEs when the rotation angle is 30
 
 h_460.mat, h_700.mat: the height map of 2 DOEs as a whole when the rotation angle is 45 and 30, respectively
 
+data_new.mat: the RGB response curves of the camera, range from 400nm-700nm (interval 10nm)
