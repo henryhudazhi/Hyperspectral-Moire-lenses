@@ -19,3 +19,5 @@ data_new.mat: the RGB response curves of the camera, range from 400nm-700nm (int
 rotated_diff_2doe : the code for Algorithm 1
 
 get_blurred_images： the code for Figure 7
+
+MST_Kmeasurements for training and testing
