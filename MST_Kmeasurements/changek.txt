@@ -1,0 +1,9 @@
+psf_kmeasure.mat includes two wavelength PSF encodings，
+
+change the input into input[0:3,:,:] in dataset1 to get only ONE PSF encoding.
+change k into 1 in network structures
+
+for test
+ADD
+mask_3d = load_psf(opt.mask_path)[0,:,:,:,:]
+mask_3d = np.expand_dims(mask_3d, axis=0)
