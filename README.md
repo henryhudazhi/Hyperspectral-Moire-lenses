@@ -21,3 +21,6 @@ rotated_diff_2doe : the code for Algorithm 1
 get_blurred_images： the code for Figure 7
 
 MST_Kmeasurements for training and testing
+
+More questions about MST can be found in https://github.com/caiyuanhao1998/MST.
+We've only made minor modifications.
